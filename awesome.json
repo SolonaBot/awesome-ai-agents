@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "AI Agents",
+  "repo": "ianwieds/awesome-ai-agents",
+  "tagline": "A curated list of AI agent frameworks, coding agents, browser agents, tools, platforms and research.",
+  "scope": "It is about AI agents: it is an agent, or acting as or for an agent is central to what it does.",
+  "accent": "8B5CF6",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: small agent bots at a browser, a code editor, a chart and a toolbox pass glowing tasks around a ring."
 }
