@@ -314,6 +314,7 @@ Every link was checked when it was added, and every GitHub project on the list h
 ### Browser agents
 
 - [Agent-E](https://github.com/EmergenceAI/Agent-E) - Web automation agent built on AutoGen that drives the browser for you.
+- [Agent Browser](https://github.com/vercel-labs/agent-browser) - CLI for AI agents to control browsers through structured commands.
 - [Browser Use](https://github.com/browser-use/browser-use) - Python library that lets agents control a real browser.
 - [ChatGPT agent](https://openai.com/index/introducing-chatgpt-agent/) - ChatGPT mode that browses, fills forms and uses tools for you.
 - [ChatGPT Atlas](https://chatgpt.com/atlas) - OpenAI browser with ChatGPT built in and an agent mode for web tasks.
